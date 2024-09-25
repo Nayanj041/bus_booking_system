@@ -1,14 +1,14 @@
-Introduction:
+<h1>Introduction:</h1>
 In this article, we’ll show how to build a Bus Ticket Booking System using the Java Swing library and JDBC. This bus ticket booking system allows you to book a bus ticket easily is a graphical user interface (GUI) application. This system is built with the Java Swing library and JDBC which offers a set of components that can be used to build a Graphical user interface(GUI). This system has an easy and simple design with buttons for ticket booking. So grab a seat, pour a cup of coffee, and start booking tickets with the bus Ticket Booking system!
 
-Explanation:
+<h1>Explanation:</h1>
 This Bus Ticket Booking System is a Graphical User Interface that allows you to easily book bus tickets. Users may very quickly book a ticket using the system’s simple design. The Bus Ticket Booking System has a modern and simple design with buttons like submit, Reset, and book making it suitable for a wide range of users, from simply booking bus tickets quickly. The database stores the data when users book the tickets. The system stores the data in a MySQL database.
 
 The user may book tickets using the Book button, reset details using the reset button and submit details and view the payable amount using submit button. The system will quickly and accurately calculate the payable amount based on the number of passengers.
 
 The Java Swing library which provides a flexible set of components is used to build the Bus Ticket Booking System. The system makes use of Swing components such as Jbutton, JTextField, JLabel, JComboBox, JCalender, and JTextArea among many other Swing components. Button event is handled by the ActionListener interface and button events are defined using ActionListener’s actionPerformed() method. The data of booked tickets are inserted into the database using the preparedStatement() method. 
 
-Methods used in the project:
+<h1>Methods used in the project:</h1>
 
 connect():
 
