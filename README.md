@@ -27,5 +27,10 @@ The Java Swing library which provides a flexible set of components is used to bu
 <p>preparedStatement() method belongs to the java.sql package. This method is used to store the SQL statement that can be executed multiple times when it is needed.</p>
 
 <h1>Screensort</h1>
-https://github.com/Nayanj041/bus_booking_system/blob/1b5d99c0f4e69822062efda7afda5d1544286ce8/img/img1.png
 
+
+![img1](https://github.com/user-attachments/assets/991d633b-7356-4f3a-b31a-811c157c8459)
+![img2](https://github.com/user-attachments/assets/9f221197-7201-400f-ac58-b940653fecee)
+![img3](https://github.com/user-attachments/assets/88f4ed7c-3686-4d4c-bfca-f2a0b9b87085)
+![img4](https://github.com/user-attachments/assets/b5d5bb8e-a048-420e-8499-2b09e3196c28)
+![img5](https://github.com/user-attachments/assets/cd4eeaff-e306-4462-8854-e5e4e4d81dc8)
